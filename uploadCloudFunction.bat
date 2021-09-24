@@ -1,0 +1,1 @@
+"D:\Program Files (x86)\Tencent\微信web开发者工具\cli.bat" cloud functions deploy --e ganfanbao-1goayejba4ec1d03 --n quickstartFunctions --r --project "D:\Program Files (x86)\Tencent\代码\美团外卖红包分享" --report
